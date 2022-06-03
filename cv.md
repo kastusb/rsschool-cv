@@ -4,7 +4,7 @@
 * E-mail: kostus.ok@tut.by
 * Telegram: @kastusbn
 # About me
-I am 19 years old. And I'm a student at BSU. 
+I am 19 years old. And I'm a student at BSU. I like IT.
 # Code example: #
 function multiply(a, b){
 
