@@ -1,18 +1,24 @@
-# Kanstantin Petrushevich
+# Kanstantsin Petrushevich
 # My Contact info
-* Phone: +375299723015
+* Telefon: +375299723015
 * E-mail: kostus.ok@tut.by
 * Telegram: kastusbn
 # About me
-I'm 19 years old. And I study at BGU.
+I'm 19. I study at Belarusian State University History department. I like coding. I find it fascinating, how many simple command lines connect into working and functional software. I would like to take an RSS course and gain new experience and knowledge.
 # Code Examples:
 function multiply(a, b){
 
  return  a * b
  
 }
+# Education
+BSU(2dn year)
+Englishhous: starter
+# Skills:
+HTML
+CSS
 # Languages:
-*Russian
-*Belarussian
-*Polish - A2
-*English - A2
+Russian - Native
+Belarussian - Native
+Polish - A2
+English - A2
