@@ -15,11 +15,11 @@ return  a * b
 * BSU(3dn year)
 * English house: starter
 # Skills:
-HTML
-CSS
+* HTML
+* CSS
 # Languages:
-*Russian - Native
-*Belarussian - Native
-*Polish - A2
-*English - A2
+* Russian - Native
+* Belarussian - Native
+* Polish - A2
+* English - A2
 
