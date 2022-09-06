@@ -8,18 +8,18 @@ I'm 19. I study at Belarusian State University History department. I like coding
 # Code Examples:
 function multiply(a, b){
 
- return  a * b
+return  a * b
  
 }
 # Education
-BSU(3dn year)
-English house: starter
+* BSU(3dn year)
+* English house: starter
 # Skills:
 HTML
 CSS
 # Languages:
-Russian - Native
-Belarussian - Native
-Polish - A2
-English - A2
+*Russian - Native
+*Belarussian - Native
+*Polish - A2
+*English - A2
 
